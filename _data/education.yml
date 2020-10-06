@@ -3,9 +3,9 @@
   dates: 2019 - Present (Graduation December 2020)
   qualification: M.S. Information Systems (GPA 3.9/4)
   description: | # this will include new lines to allow paragraphs
-    My time at University of Maryland brought out my business acumen while helping me to enhance my data science skillset. My interest in media and business has been solidified and I am determined to pursue this career after 1 year of my studies.
+    My time at University of Maryland brought out my <mark>business acumen</mark> while helping me to enhance my <mark>data science</mark> skillset. My interest in media and business has been solidified and I am determined to pursue this career after 1 year of my studies.
 
-    The courses that stimulated me included Managing Digital Business Markets, Big Data and AI, Data Mining, Databases and Business Process Analysis where I was provided oppurtunities to explore and collaborate with students from different parts of the world. I worked to understand the significance of technical abilities in business domain and how to make business cases using data analytics.
+    The courses that stimulated me included <mark>Managing Digital Business Markets</mark>, <mark>Big Data and AI</mark>, <mark>Data Mining</mark>, <mark>Databases</mark> and <mark>Business Process Analysis</mark> where I was provided oppurtunities to explore and collaborate with students from different parts of the world. I worked to understand the significance of technical abilities in business domain and how to make business cases using data analytics.
 
     My interest in research led me to continue working in the computer vision space where I work on Remote Sensing images with Deep Learning.
 
@@ -16,7 +16,7 @@
   dates: 2015 - 2019
   qualification: B.Tech. Computer Science (GPA 3.6/4)
   description: | # this will include new lines to allow paragraphs
-    During my undergraduate years, I gained new life lessons from adjusting to new surroundings to collaborate with multi-cultural people during teamwork and projects. I also acquired on most of my technical skills during my coursework and research at IIIT.
+    During my undergraduate years, I gained new life lessons from adjusting to new surroundings to collaborate with multi-cultural people during teamwork and projects. I also acquired most of my technical skills during my coursework and research at IIIT.
 
     Some of the coursework I excelled include Data Structures, Algorithms, Deep Learning, Computer Vision, Information Retrieval and Distributed Computing.
 

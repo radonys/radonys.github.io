@@ -28,6 +28,15 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
+more_title: Skills
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in data science and business intelligence some of my other interests and hobbies are:
+   - Liverpool Football Club
+   - Telling and listening stories
+   - Table Tennis
+   - Swimming
+   - Indian and Chinese Food (especially sweets)
+
 # Projects Section
 # projects_title: Projects
 
