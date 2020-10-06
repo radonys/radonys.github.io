@@ -4,9 +4,9 @@
   job_title: Business Intelligence Intern
   dates: June 2020 - August 2020
   description: | # this will include new lines to allow paragraphs
-    - Designed <mark>data synchronization pipline</mark> using <mark>Python</mark>, <mark>PHP</mark>, and <mark>SQL</mark> between Inventory Management and WooCommerce systems to reduce reliance on spreadsheets and fasten order fulfillment process by 60%.
+    - Designed <mark>data synchronization pipeline</mark> using <mark>Python</mark>, <mark>PHP</mark>, and <mark>SQL</mark> between Inventory Management and WooCommerce systems to reduce reliance on spreadsheets and fasten order fulfillment process by 60%.
     - Developed an affiliate program with <mark>Google Analytics</mark> and <mark>HubSpot</mark> for the CERTIFY eCommerce platform to track transactions and recorded monthly sales of $300,000+.
-    - Collaborated with CERTIFY members from California, India, and China for <mark>website migration and new product launches.
+    - Collaborated with CERTIFY members from California, India, and China for <mark>website migration</mark> and new product launches.
     - Executed a two-week Google Analytics campaign for the CERTIFY website to facilitate customer engagement.
     - Cooperated with FedEx and UPS teams for <mark>API integration</mark> and enhanced shipment and label generation process.
 
@@ -17,7 +17,7 @@
   dates: May 2018 - August 2018
   description: | # this will include new lines to allow paragraphs
     - Spearheaded <mark>database migration</mark> from <mark>MySQL</mark> to <mark>Elasticsearch</mark> for the DIRAC project to increase the efficiency of nuclear experiment data management and analysis.
-    - Programmed new and efficient functions to access Elasticsearch DB and supported it with integration tests in <mark>Python</mark>.
+    - Programmed new and efficient functions to access Elasticsearch DB and supported it with <mark>integration tests</mark> in <mark>Python</mark>.
     - Started code language cross-version support from Python 2 to Python 3.
     - Monitored performance on both database backends, overseeing a 50% boost in response time on Elasticsearch.
 

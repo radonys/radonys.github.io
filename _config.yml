@@ -27,11 +27,12 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. I have worked and gained academic and professional experiences in data science, data engineering and business intelligence as part of my coursework, assitantships and internships. I am looking forward to start my full-time professional career in a data-driven role starting February 2021. 
+  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. I have worked and gained academic and professional experiences in <mark>data science</mark>, <mark>data engineering</mark> and <mark>business intelligence</mark> as part of my coursework, assitantships and internships. I am looking forward to start my full-time professional career in a data-driven role starting February 2021. 
 
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>. A list of my skills can be found below:
+
 
   - Programming Languages: R, Java, C++, HTML/CSS/JS
   - Data Engineering: NoSQL, Hadoop, Pig, Hive, Spark, Airflow, Kafka, ETL
