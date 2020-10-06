@@ -6,27 +6,39 @@ favicon: images/favicon.ico
 name: Yash Srivastava
 title: Graduate Research Assistant @ UMD
 email: yashsri@umd.edu
-website: www.radonys.github.io
+website: radonys.github.io
 
 # Social links
 linkedin_username: radonys
 github_username:  radonys
 twitter_username: yashsrivastav97
-facebook_username: yashsrivastava30
-instagram_username: yashsrivastava7
+# facebook_username: yashsrivastava30
+# instagram_username: yashsrivastava7
 # dribbble_username: jekyll
 # flickr_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 
+additional_links:
+- title: Google Scholar Link
+  icon: fa-google
+  url: https://scholar.google.com/citations?user=Pd4WGpUAAAAJ&hl=en
+
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. I have worked and gained academic and professional experiences in data science, data engineering and business intelligence as part of my coursework, assitantships and internships. I am looking forward to start my full-time professional career in a data-driven role starting February 2021. 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>. A list of my skills can be found below:
+
+  - Programming Languages: R, Java, C++, HTML/CSS/JS
+  - Data Engineering: NoSQL, Hadoop, Pig, Hive, Spark, Airflow, Kafka, ETL
+  - Databases: MySQL, PostgreSQL, ElasticSearch, Cassandra, MS SQL
+  - Machine Learning: Decision Trees, Neural Networks, Regression, Text Mining, Computer Vision
+  - Business Analysis: Data Warehousing & Architecture, Scope & Requirement Gathering
+  - Tools & Frameworks: Git, Linux, AWS, Pandas, NumPy, Matplotlib, Tableau, Power BI, Jenkins 
 
 
 # Projects Section
