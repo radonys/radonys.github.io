@@ -1,0 +1,61 @@
+# Site
+repository: radonys/radonys.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Yash Srivastava
+title: Graduate Research Assistant @ UMD
+email: yashsri@umd.edu
+website: www.radonys.github.io
+
+# Social links
+linkedin_username: radonys
+github_username:  radonys
+twitter_username: yashsrivastav97
+facebook_username: yashsrivastava30
+instagram_username: yashsrivastava7
+# dribbble_username: jekyll
+# flickr_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  Alongside my interests in data science and business intelligence some of my other interests and hobbies are:
+   - Liverpool Football Club
+   - Telling and listening stories
+   - Table Tennis
+   - Swimming
+   - Indian and Chinese Food (especially sweets)
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag

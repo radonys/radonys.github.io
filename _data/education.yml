@@ -1,0 +1,26 @@
+- layout: left
+  name: University of Maryland, College Park
+  dates: 2019 - Present (Graduation December 2020)
+  qualification: M.S. Information Systems (GPA 3.9/4)
+  description: | # this will include new lines to allow paragraphs
+    My time at University of Maryland brought out my business acumen while helping me to enhance my data science skillset. My interest in media and business has been solidified and I am determined to pursue this career after 1 year of my studies.
+
+    The courses that stimulated me included Managing Digital Business Markets, Big Data and AI, Data Mining, Databases and Business Process Analysis where I was provided oppurtunities to explore and collaborate with students from different parts of the world. I worked to understand the significance of technical abilities in business domain and how to make business cases using data analytics.
+
+    My interest in research led me to continue working in the computer vision space where I work on Remote Sensing images with Deep Learning.
+
+    With my student life, I also held Teaching and Research Assistant positions at UMD.
+
+- layout: left
+  name: Indian Institute of Information Technology, Sri City
+  dates: 2015 - 2019
+  qualification: B.Tech. Computer Science (GPA 3.6/4)
+  description: | # this will include new lines to allow paragraphs
+    During my undergraduate years, I gained new life lessons from adjusting to new surroundings to collaborate with multi-cultural people during teamwork and projects. I also acquired on most of my technical skills during my coursework and research at IIIT.
+
+    Some of the coursework I excelled include Data Structures, Algorithms, Deep Learning, Computer Vision, Information Retrieval and Distributed Computing.
+
+    I pursued my interest in media and deep learning as student researcher and worked on face recognition and visual question answering problems. My work led to 4 conference publications in *NCVPRIPG 2019*, *IEEE CICT 2019* and *CVIP 2020*.
+
+    Apart from my academic life, I was a Teaching Assistant for 3 years for Computer Science courses and taught students about Python, HTML/CSS/JS, Object-Oriented Programming and Digital Logic Design. I also participated in ACM-ICPC (top university team - Chennai region, 2016) and Google Code Jam.
+
