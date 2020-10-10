@@ -24,8 +24,7 @@ additional_links:
 - title: Google Scholar link
   icon: fa-google
   url: https://scholar.google.com/citations?user=Pd4WGpUAAAAJ&hl=en
-
-additional_links:
+  
 - title: Blogger link
   icon: fa-blogger
   url: http://radonys.blogspot.com/
@@ -38,6 +37,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>. A list of my skills can be found below:
 
+  <br>
 
   - Programming Languages: R, Java, C++, HTML/CSS/JS
   - Data Engineering: NoSQL, Hadoop, Pig, Hive, Spark, Airflow, Kafka, ETL
