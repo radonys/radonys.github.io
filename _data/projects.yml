@@ -8,7 +8,6 @@
 
 - layout: top-middle
   name: Reddit Flair Detector
-  github: https://github.com/radonys/Reddit-Flair-Detector
   quote: >
     Python, Machine Learning, Django, Heroku
   description: | # this will include new lines to allow paragraphs
