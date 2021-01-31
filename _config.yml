@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Yash Srivastava
-title: Graduate Research Assistant @ UMD
+title: Data Science and Analytics | Software Development
 email: yashsri@umd.edu
 website: radonys.github.io
 
@@ -33,18 +33,18 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Yash and I'm a second-year graduate student at University of Maryland. I have worked and gained academic and professional experiences in <mark>data science</mark>, <mark>data engineering</mark> and <mark>business intelligence</mark> as part of my coursework, assitantships and internships. I am looking forward to start my full-time professional career in a data-driven role starting February 2021. 
+  Hi, my name's Yash and I'm a recent graduate student from University of Maryland. Thank you for visiting my website and hit me up to discuss about recent happenings in data science and new oppurtunities. 
 
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>. A list of my skills can be found below:
 
   <br>
 
-  - Programming Languages: R, Java, C++, HTML/CSS/JS
-  - Data Engineering: NoSQL, Hadoop, Pig, Hive, Spark, Airflow, Kafka, ETL
-  - Databases: MySQL, PostgreSQL, ElasticSearch, Cassandra, MS SQL
-  - Machine Learning: Decision Trees, Neural Networks, Regression, Text Mining, Computer Vision
-  - Business Analysis: Data Warehousing & Architecture, Scope & Requirement Gathering
-  - Tools & Frameworks: Git, Linux, AWS, Pandas, NumPy, Matplotlib, Tableau, Power BI, Jenkins 
+  - Languages: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/JS
+  - Data: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+  - Frameworks: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+  - Machine Learning: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
+  - Tools: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
+  - Methodologies: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development  
 
 
 # Projects Section
