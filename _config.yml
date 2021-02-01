@@ -22,11 +22,11 @@ twitter_username: yashsrivastav97
 
 additional_links:
 - title: Google Scholar link
-  icon: fa-google
+  icon: fab fa-google
   url: https://scholar.google.com/citations?user=Pd4WGpUAAAAJ&hl=en
   
 - title: Blogger link
-  icon: fa-blogger
+  icon: fab fa-blogger
   url: http://radonys.blogspot.com/
 
 # About Section
