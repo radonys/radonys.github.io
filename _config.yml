@@ -38,16 +38,7 @@ about_profile_image: images/data_science_data_analyst_software_development_data_
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Yash and I'm a recent graduate student from University of Maryland. Thank you for visiting my website and hit me up to discuss about recent happenings in data science and new oppurtunities. 
 
-  I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>. A list of my skills can be found below:
-
-  <br>
-
-  - **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/JS
-  - **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
-  - **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
-  - **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
-  - **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
-  - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
+  I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>.
 
 content:
   - title: Experience
@@ -152,13 +143,17 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/JS
+      **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
+
       **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+
       **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+
       **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
+
       **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
+
       **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
-      
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
