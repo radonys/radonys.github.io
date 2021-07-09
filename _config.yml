@@ -60,6 +60,77 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: left
+        company: University of Maryland
+        link: umd.edu
+        job_title: Deep Learning Research Assistant
+        dates: September 2019 - December 2020
+        description: | # this will include new lines to allow paragraphs
+          - Collected and examined online interactions of 30-plus companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback.
+          - Investigated perception towards brand using sentiment and statistical analysis reflecting 7% positive response.
+          - **Technologies used: Python (pandas/scikit-learn/numpy), Selenium, PyTorch, SQL, OpenCV, AWS**
+
+      - layout: left
+        company: CERTIFY Health
+        link: certify.me
+        job_title: Business Intelligence Engineer
+        dates: June 2020 - August 2020
+        description: | # this will include new lines to allow paragraphs
+          - Designed data synchronization API between Inventory Management and eCommerce platform fastening order fulfillment by 60%.
+          - Integrated Fedex and UPS APIs in CRM system reducing label generation and shipment times by 3 days.
+          - Systematized spreadsheet data management from 10+ sources using ER diagrams and database design increasing data retrieval efficiency by 80%.
+          - Developed affiliate programs with WordPress and HubSpot for CERTIFY website recording monthly sales of $300,000+.
+          - Executed two-week Google Analytics campaign in collaboration with India and China teams leading to 100,000+ website impressions.
+          - **Technologies used: Python, Excel, SQL, Tableau, PHP, Azure, Wordpress, Confluence, Lucidchart**
+
+      - layout: left
+        company: Indian Institute of Information Technology, Sri City
+        link: iiits.ac.in
+        job_title: Undergraduate Student Researcher
+        dates: July 2017 - May 2019
+        description: | # this will include new lines to allow paragraphs
+          - Surveyed 25+ criterion functions used with Convolutional Neural Networks (CNN) for Face Recognition tasks leading to research publication at NCVPRIPG 2019 (http://bit.ly/2Mdi1NG).
+          - Conceptualized two deep-learning based Face Recognition methods with Hard-Mining Loss and Parametric-Sigmoid layers each showing 97% plus verification accuracy.
+          - Investigated 10+ dataset and architecture advancements in Visual-Question Answering domain using Deep Learning with a conference paper in CVIP 2020 (http://bit.ly/3amuFSs).
+          - Published two face recognition methods papers at CVIP 2020 (http://bit.ly/2NHT5Or) and CICT 2019 (http://bit.ly/3oy4IEp) receiving best paper award for Hard-Mining Loss.
+          - **Technologies used: Python (pandas/scikit-learn/numpy), PyTorch, Keras, MxNet, OpenCV, Tensorboard**
+
+      - layout: left
+        company: CERN (European Organization for Nuclear Research)
+        link: home.cern
+        job_title: Software Engineer (Google Summer of Code)
+        dates: May 2018 - August 2018
+        description: | # this will include new lines to allow paragraphs
+          - Spearheaded database migration from MySQL to Elasticsearch for DIRAC open-source project increasing process time efficiency of nuclear experiment data management and analysis by 70%.
+          - Revamped database access functions to support Elasticsearch backend overseeing 50% boost in response time.
+          - Programmed unit and integration tests producing 25+ tests for execution before production launch.
+          - **Technologies used: Python, SQL, ElasticSearch, pytest, Django, Git, Travis CI, Jenkins**
+
+      - layout: left
+        company: Physiz
+        link: physiz.com
+        job_title: Data Scientist
+        dates: August 2017 - September 2017
+        description: | # this will include new lines to allow paragraphs
+          - Built the leaf-detection pipeline from live-farm image feed using CNNs and PlantCV with 70% detection accuracy.
+          - Surveyed 30+ deep-learning mechanisms for geographical nutrient supply analysis summarizing 3 top solutions for research and development.
+          - **Technologies used: Python (numpy/pandas/scikit-learn/matplotlib), Keras, CouchDB, OpenCV**
+
+
+      - layout: left
+        company: Bobble AI
+        link: bobble.ai
+        job_title: Software QA Engineer
+        dates: May 2017 - June 2017
+        description: | # this will include new lines to allow paragraphs
+          - Diagnosed 10 functional and performance bugs in the Bobble Keyboard application.
+          - Programmed test scenarios for 15+ modules of the application covering 20 boundary cases.
+          - Overhauled automation tests using Python-based Culebra tool fastening production testing time by 40%.
+          - Summarized 5000+ Play Store application reviews with data analytics and visualization and identified 8 customer pain points and preferences.
+          - **Technologies used: Java, Python, UI Automator, Espresso, Android Studio, GitHub**
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -78,18 +149,6 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
   - title: Education
     layout: list
     content:
