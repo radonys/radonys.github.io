@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Yash Srivastava
 title: Data Science and Analytics | Software Development
-email: yashsri@umd.edu
+email: yash.srivastava@outlook.com
 website: radonys.github.io
 
 # Social links
@@ -47,26 +47,27 @@ about_content: | # this will include new lines to allow paragraphs
   - **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
   - **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
   - **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
-  - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development  
-
-
-# Projects Section
-# projects_title: Projects
-
-# Experience Section
-# experience_title: Experience
-
-# Education Section
-# educaton_title: Education
+  - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
 
 content:
   - title: Experience
     layout: list
     content:
       - layout: left
+        title: NWO.AI
+        link: nwo.ai
+        sub_title: Data Engineer
+        dates: March 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          - Lead data engineering efforts and build social, financial and research datasets ingesting 1M+ data points daily from 10 sources, resulting in identifying and forecasting 20M+ trends and context spaces for Fortune 500 clients.
+          - Systematized monitoring, automation, and validation of datasets increasing processing efficiency by 85%.
+          - djd
+          - **Technologies used: Python, GCP, BigQuery, SQL, PyData, Airflow, Selenium, Git, HTML/CSS/JS**
+
+      - layout: left
         title: University of Maryland
         link: umd.edu
-        sub_title: Deep Learning Research Assistant
+        sub_title: Research Assistant (Business Research)
         dates: September 2019 - December 2020
         description: | # this will include new lines to allow paragraphs
           - Collected and examined online interactions of 30-plus companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback.
@@ -119,7 +120,6 @@ content:
           - Surveyed 30+ deep-learning mechanisms for geographical nutrient supply analysis summarizing 3 top solutions for research and development.
           - **Technologies used: Python (numpy/pandas/scikit-learn/matplotlib), Keras, CouchDB, OpenCV**
 
-
       - layout: left
         title: Bobble AI
         link: bobble.ai
@@ -131,6 +131,35 @@ content:
           - Overhauled automation tests using Python-based Culebra tool fastening production testing time by 40%.
           - Summarized 5000+ Play Store application reviews with data analytics and visualization and identified 8 customer pain points and preferences.
           - **Technologies used: Java, Python, UI Automator, Espresso, Android Studio, GitHub**
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Maryland, College Park
+        caption: August 2019 - December 2020
+        sub_title: M.S. Information Systems (GPA 3.93)
+        description: | # this will include new lines to allow paragraphs
+          -djjdjd
+
+      - layout: left
+        title: Indian Institute of Information Technology, Sri City
+        dates: 2015 - 2019
+        sub_title: B.Tech. Computer Science (GPA 3.6)
+        description: | # this will include new lines to allow paragraphs
+          -dhjdhdhdh
+
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+    - **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/JS
+    - **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+    - **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+    - **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
+    - **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
+    - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
+      
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -149,17 +178,7 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
