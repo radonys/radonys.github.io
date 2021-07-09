@@ -64,9 +64,9 @@ content:
     layout: list
     content:
       - layout: left
-        company: University of Maryland
+        title: University of Maryland
         link: umd.edu
-        job_title: Deep Learning Research Assistant
+        sub_title: Deep Learning Research Assistant
         dates: September 2019 - December 2020
         description: | # this will include new lines to allow paragraphs
           - Collected and examined online interactions of 30-plus companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback.
@@ -74,9 +74,9 @@ content:
           - **Technologies used: Python (pandas/scikit-learn/numpy), Selenium, PyTorch, SQL, OpenCV, AWS**
 
       - layout: left
-        company: CERTIFY Health
+        title: CERTIFY Health
         link: certify.me
-        job_title: Business Intelligence Engineer
+        sub_title: Business Intelligence Engineer
         dates: June 2020 - August 2020
         description: | # this will include new lines to allow paragraphs
           - Designed data synchronization API between Inventory Management and eCommerce platform fastening order fulfillment by 60%.
@@ -87,9 +87,9 @@ content:
           - **Technologies used: Python, Excel, SQL, Tableau, PHP, Azure, Wordpress, Confluence, Lucidchart**
 
       - layout: left
-        company: Indian Institute of Information Technology, Sri City
+        title: Indian Institute of Information Technology, Sri City
         link: iiits.ac.in
-        job_title: Undergraduate Student Researcher
+        sub_title: Undergraduate Student Researcher
         dates: July 2017 - May 2019
         description: | # this will include new lines to allow paragraphs
           - Surveyed 25+ criterion functions used with Convolutional Neural Networks (CNN) for Face Recognition tasks leading to research publication at NCVPRIPG 2019 (http://bit.ly/2Mdi1NG).
@@ -99,9 +99,9 @@ content:
           - **Technologies used: Python (pandas/scikit-learn/numpy), PyTorch, Keras, MxNet, OpenCV, Tensorboard**
 
       - layout: left
-        company: CERN (European Organization for Nuclear Research)
+        title: CERN (European Organization for Nuclear Research)
         link: home.cern
-        job_title: Software Engineer (Google Summer of Code)
+        sub_title: Software Engineer (Google Summer of Code)
         dates: May 2018 - August 2018
         description: | # this will include new lines to allow paragraphs
           - Spearheaded database migration from MySQL to Elasticsearch for DIRAC open-source project increasing process time efficiency of nuclear experiment data management and analysis by 70%.
@@ -110,9 +110,9 @@ content:
           - **Technologies used: Python, SQL, ElasticSearch, pytest, Django, Git, Travis CI, Jenkins**
 
       - layout: left
-        company: Physiz
+        title: Physiz
         link: physiz.com
-        job_title: Data Scientist
+        sub_title: Data Scientist
         dates: August 2017 - September 2017
         description: | # this will include new lines to allow paragraphs
           - Built the leaf-detection pipeline from live-farm image feed using CNNs and PlantCV with 70% detection accuracy.
@@ -121,9 +121,9 @@ content:
 
 
       - layout: left
-        company: Bobble AI
+        title: Bobble AI
         link: bobble.ai
-        job_title: Software QA Engineer
+        sub_title: Software QA Engineer
         dates: May 2017 - June 2017
         description: | # this will include new lines to allow paragraphs
           - Diagnosed 10 functional and performance bugs in the Bobble Keyboard application.
