@@ -143,17 +143,17 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
+      -**Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
 
-      **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+      -**Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
 
-      **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+      -**Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
 
-      **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
+      -**Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
 
-      **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
+      -**Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
 
-      **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
+      -**Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
