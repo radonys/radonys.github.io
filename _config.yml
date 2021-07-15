@@ -1,6 +1,6 @@
 # Site
 repository: radonys/radonys.github.io
-favicon: images/favicon.
+favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -14,7 +14,7 @@ website: radonys.github.io
 # Social links
 linkedin_username: radonys
 github_username:  radonys
-twitter_username: yashsrivastav97
+twitter_username: yashsri97
 # facebook_username: yashsrivastava30
 # instagram_username: yashsrivastava7
 # dribbble_username: jekyll
@@ -50,10 +50,11 @@ content:
         sub_title: Data Engineer
         dates: March 2021 - Present
         description: | # this will include new lines to allow paragraphs
-          - Lead data engineering efforts and build social, financial and research datasets ingesting 1M+ data points daily from 10 sources, resulting in identifying and forecasting 20M+ trends and context spaces for Fortune 500 clients.
-          - Systematized monitoring, automation, and validation of datasets increasing processing efficiency by 85%.
-          - djd
-          - **Technologies used: Python, GCP, BigQuery, SQL, PyData, Airflow, Selenium, Git, HTML/CSS/JS**
+          - Lead data engineering efforts and build social, financial, and eCommerce datasets ingesting 1M+ data points daily from 10+ sources resulting in insights and forecasting 1M+ trends and context spaces for Fortune 500 clients.
+          - Identified new data sources and executed full-cycle development serving 2 clients and long-term business use cases.
+          - Built event-driven and containerized data pipelines improving forecast and context-space generation time by 45s.
+          - Overhauled monitoring, automation, and validation of BigQuery datasets increasing processing efficiency by 85%.
+          - **Technologies used: Python, SQL, GCP (BigQuery, Pub/Sub, Cloud Run/Functions), ETL pipelines, Airflow, Selenium, Git, HTML/CSS/JS**
 
       - layout: left
         title: University of Maryland
@@ -61,8 +62,8 @@ content:
         sub_title: Research Assistant (Business Research)
         dates: September 2019 - December 2020
         description: | # this will include new lines to allow paragraphs
-          - Collected and examined online interactions of 30-plus companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback.
-          - Investigated perception towards brand using sentiment and statistical analysis reflecting 7% positive response.
+          - Channelized online interactions of 30+ companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback using sentiment understanding models.
+          - Investigated perception towards brand using statistical analysis reflecting 7% positive response.
           - **Technologies used: Python (pandas/scikit-learn/numpy), Selenium, PyTorch, SQL, OpenCV, AWS**
 
       - layout: left
@@ -71,9 +72,9 @@ content:
         sub_title: Business Intelligence Engineer
         dates: June 2020 - August 2020
         description: | # this will include new lines to allow paragraphs
-          - Designed data synchronization API between Inventory Management and eCommerce platform fastening order fulfillment by 60%.
-          - Integrated Fedex and UPS APIs in CRM system reducing label generation and shipment times by 3 days.
-          - Systematized spreadsheet data management from 10+ sources using ER diagrams and database design increasing data retrieval efficiency by 80%.
+          - Designed data synchronization API between Inventory and eCommerce platform fastening order fulfillment by 60%.
+          - Organized data management from 10+ sources using ER diagrams and databases improving data retrieval by 80%.
+          - Integrated FedEx and UPS APIs in CRM system reducing label generation and shipment times by 3 days.
           - Developed affiliate programs with WordPress and HubSpot for CERTIFY website recording monthly sales of $300,000+.
           - Executed two-week Google Analytics campaign in collaboration with India and China teams leading to 100,000+ website impressions.
           - **Technologies used: Python, Excel, SQL, Tableau, PHP, Azure, Wordpress, Confluence, Lucidchart**
@@ -131,7 +132,7 @@ content:
         caption: August 2019 - December 2020
         sub_title: M.S. Information Systems (GPA 3.93)
         description: | # this will include new lines to allow paragraphs
-          -djjdjd
+          -
 
       - layout: left
         title: Indian Institute of Information Technology, Sri City
@@ -143,17 +144,17 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      -**Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
+      - **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
 
-      -**Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+      - **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
 
-      -**Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+      - **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
 
-      -**Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
+      - **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
 
-      -**Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
+      - **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
 
-      -**Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
+      - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
