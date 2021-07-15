@@ -40,6 +40,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Python</mark>, <mark>SQL</mark> and <mark>Machine Learning</mark>.
 
+  You can reach out to me via [email](yash.srivastava@outlook.com).
+
 content:
   - title: Experience
     layout: list
