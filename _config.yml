@@ -8,6 +8,7 @@ version: 2
 # Personal info
 name: Yash Srivastava
 title: Data Engineer
+email: [email](mailto:yash.srivastava@outlook.com)
 
 darkmode: false
 
@@ -188,8 +189,7 @@ content:
 #   - Indian and Chinese Food (especially sweets)
 
 # Footer
-#footer_show_references: false
-#references_title: References on request (Override references text)
+footer_show_references: true
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
