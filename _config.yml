@@ -9,7 +9,7 @@ version: 2
 name: Yash Srivastava
 title: Data Engineer
 
-darkmode: true
+darkmode: false
 
 # Social links
 linkedin_username: radonys
@@ -152,30 +152,34 @@ content:
 
       - **Tools**: Git, Linux, Google Cloud Platform, Docker, Pub/Sub, Selenium, Tableau
 
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+  #- title: Projects # Title for the section
+  #  layout: list # Type of content section (list/text)
+  #  content:
+  #    - layout: left
+  #      title: Project name
+  #      link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #      link_text: Link Text
+  #      additional_links:
+  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #          icon: fab fa-github
+  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #        - title:  Github page for project (eg. sproogen/modern-resume-theme)
+  #          icon: fab fa-github
+  #          url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  #      quote: >
+  #        Short overview of the project (optional)
+  #      description: | # this will include new lines to allow paragraphs
+  #        Description about the work on/with the project
   
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Alongside my interests in data science and business intelligence some of my other interests and hobbies are:
+        - Liverpool Football Club
+        - Telling and listening stories
+        - Table Tennis
+        - Swimming
+        - Trying out new cuisines every week
 
 # More Section
 # more_title: A Little More About Me
