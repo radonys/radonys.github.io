@@ -8,9 +8,8 @@ version: 2
 # Personal info
 name: Yash Srivastava
 title: Data Engineer
-email: [email](mailto:yash.srivastava@outlook.com)
 
-darkmode: false
+darkmode: true
 
 # Social links
 linkedin_username: radonys
