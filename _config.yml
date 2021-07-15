@@ -48,7 +48,7 @@ content:
         title: NWO.AI
         link: nwo.ai
         sub_title: Data Engineer
-        dates: March 2021 - Present
+        caption: March 2021 - Present
         description: | # this will include new lines to allow paragraphs
           - Lead data engineering efforts and build social, financial, and eCommerce datasets ingesting 1M+ data points daily from 10+ sources resulting in insights and forecasting 1M+ trends and context spaces for Fortune 500 clients.
           - Identified new data sources & executed full-cycle development serving 2 clients and long-term business use cases.
@@ -60,7 +60,7 @@ content:
         title: University of Maryland
         link: umd.edu
         sub_title: Graduate Assistant (Social-Media Research)
-        dates: September 2019 - December 2020
+        caption: September 2019 - December 2020
         description: | # this will include new lines to allow paragraphs
           - Channelized online interactions of 30+ companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback using sentiment understanding models.
           - Investigated perception towards brand using statistical analysis reflecting 7% positive response.
@@ -70,7 +70,7 @@ content:
         title: CERTIFY Health
         link: certify.me
         sub_title: Business Intelligence Engineer
-        dates: June 2020 - August 2020
+        caption: June 2020 - August 2020
         description: | # this will include new lines to allow paragraphs
           - Designed data synchronization API between Inventory & eCommerce platform fastening order fulfillment by 60%.
           - Organized data management from 10+ sources using ER diagrams & databases improving data retrieval by 80%.
@@ -83,7 +83,7 @@ content:
         title: Indian Institute of Information Technology, Sri City
         link: iiits.ac.in
         sub_title: Undergraduate Student Researcher
-        dates: July 2017 - May 2019
+        caption: July 2017 - May 2019
         description: | # this will include new lines to allow paragraphs
           - Surveyed 25+ criterion functions used with Convolutional Neural Networks (CNN) for Face Recognition tasks leading to research publication at NCVPRIPG 2019 (http://bit.ly/2Mdi1NG).
           - Conceptualized two deep-learning based Face Recognition methods with Hard-Mining Loss and Parametric-Sigmoid layers each showing 97% plus verification accuracy.
@@ -95,7 +95,7 @@ content:
         title: CERN (European Organization for Nuclear Research)
         link: home.cern
         sub_title: Software Engineer (Google Summer of Code)
-        dates: May 2018 - August 2018
+        caption: May 2018 - August 2018
         description: | # this will include new lines to allow paragraphs
           - Spearheaded database migration from MySQL to Elasticsearch for DIRAC open-source project increasing process time efficiency of nuclear experiment data management and analysis by 70%.
           - Revamped database access functions to support Elasticsearch backend overseeing 50% boost in response time.
@@ -106,7 +106,7 @@ content:
         title: Physiz
         link: physiz.com
         sub_title: Data Scientist
-        dates: August 2017 - September 2017
+        caption: August 2017 - September 2017
         description: | # this will include new lines to allow paragraphs
           - Built the leaf-detection pipeline from live-farm image feed using CNNs and PlantCV with 70% detection accuracy.
           - Surveyed 30+ deep-learning mechanisms for geographical nutrient supply analysis summarizing 3 top solutions for research and development.
@@ -116,7 +116,7 @@ content:
         title: Bobble AI
         link: bobble.ai
         sub_title: Software QA Engineer
-        dates: May 2017 - June 2017
+        caption: May 2017 - June 2017
         description: | # this will include new lines to allow paragraphs
           - Diagnosed 10 functional and performance bugs in the Bobble Keyboard application.
           - Programmed test scenarios for 15+ modules of the application covering 20 boundary cases.
