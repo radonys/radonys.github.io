@@ -51,7 +51,7 @@ content:
         dates: March 2021 - Present
         description: | # this will include new lines to allow paragraphs
           - Lead data engineering efforts and build social, financial, and eCommerce datasets ingesting 1M+ data points daily from 10+ sources resulting in insights and forecasting 1M+ trends and context spaces for Fortune 500 clients.
-          - Identified new data sources and executed full-cycle development serving 2 clients and long-term business use cases.
+          - Identified data sources and executed full-cycle development serving 2 clients and long-term business use cases.
           - Built event-driven and containerized data pipelines improving forecast and context-space generation time by 45s.
           - Overhauled monitoring, automation, and validation of BigQuery datasets increasing processing efficiency by 85%.
           - **Technologies used: Python, SQL, GCP (BigQuery, Pub/Sub, Cloud Run/Functions), ETL pipelines, Airflow, Selenium, Git, HTML/CSS/JS**
@@ -59,7 +59,7 @@ content:
       - layout: left
         title: University of Maryland
         link: umd.edu
-        sub_title: Research Assistant (Business Research)
+        sub_title: Graduate Assistant (Social-Media Research)
         dates: September 2019 - December 2020
         description: | # this will include new lines to allow paragraphs
           - Channelized online interactions of 30+ companies from 6 social media platforms showing 25% increase in customer satisfaction and positive feedback using sentiment understanding models.
@@ -127,34 +127,28 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
+      - layout: center
         title: University of Maryland, College Park
         caption: August 2019 - December 2020
         sub_title: M.S. Information Systems (GPA 3.93)
-        description: | # this will include new lines to allow paragraphs
-          -
 
-      - layout: left
+      - layout: center
         title: Indian Institute of Information Technology, Sri City
-        dates: 2015 - 2019
-        sub_title: B.Tech. Computer Science (GPA 3.6)
-        description: | # this will include new lines to allow paragraphs
-          -dhjdhdhdh
+        caption: August 2015 - May 2019
+        sub_title: B.S. (Honors) Computer Science and Engineering (GPA 3.6)
 
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Programming Languages**: Python, R, SQL (Postgres/MSSQL), Java, C/C++, HTML/CSS/
+      - **Languages**: Python, Java, R, HTML, JavaScript
 
-      - **Data**: ElasticSearch, Hadoop, Spark, Hive, Pig, Pandas, NumPy, Tableau, ETL
+      - **Data**: SQL, NoSQL, CSV/XML/JSON/Avro/Parquet, PyData (NumPy, Pandas, Matplotlib, Jupyter)
 
-      - **Frameworks**: Keras, PyTorch, Scikit-Learn, OpenCV, Django, Matplotlib, Jupyter
+      - **Frameworks**: Postgres, BigQuery, ElasticSearch, Hadoop, Spark, Airflow, Scikit-Learn
 
       - **Machine Learning**: Classification, Regression, Clustering, Forecasting, Decision Trees, Neural Networks
 
-      - **Tools**: Git, Linux, Amazon Web Services (AWS), Google Cloud (GCP), Databricks, MS Word/Excel/PowerPoint
-
-      - **Methodologies**: Data Warehousing & Architecture, Scope & Requirement Gathering, Agile Development
+      - **Tools**: Git, Linux, Google Cloud Platform, Docker, Pub/Sub, Selenium, Tableau
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
