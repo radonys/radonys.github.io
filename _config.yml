@@ -142,7 +142,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Languages**: Python, Java, R, HTML, JavaScript
+      ->**Languages**: Python, Java, R, HTML, JavaScript<-
 
       - **Data**: SQL, NoSQL, CSV/XML/JSON/Avro/Parquet, PyData (NumPy, Pandas, Matplotlib, Jupyter)
 
