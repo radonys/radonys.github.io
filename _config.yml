@@ -156,7 +156,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        name: Airbnb Bookings Predictive and Business Analysis
+        title: Airbnb Bookings Predictive and Business Analysis
         quote: >
           R, Python, SQL, Google Cloud
         description: | # this will include new lines to allow paragraphs
@@ -164,7 +164,7 @@ content:
           - Conducted predictive analysis to find significant factors affecting booking rates and obtained Kaggle AUC score of 94.018.
 
       - layout: top-middle
-        name: Reddit Flair Detector
+        title: Reddit Flair Detector
         quote: >
           Python, Machine Learning, Django, Heroku
         description: | # this will include new lines to allow paragraphs
@@ -172,7 +172,7 @@ content:
           - Trained various machine learning models and achieved an accuracy of 78% with the Random Forest model.
 
       - layout: top-middle
-        name: Job Description and Candidate Success Prediction using BERT and Regression
+        title: Job Description and Candidate Success Prediction using BERT and Regression
         quote: >
           Python, Machine Learning, BERT, TensorFlow
         description: | # this will include new lines to allow paragraphs
@@ -180,7 +180,7 @@ content:
           - Built a Candidate-Success predictor for a given job based on candidate attributes and obtained 63% accuracy using Linear Regression.
 
       - layout: top-middle
-        name: Hard-Mining Loss for CNN-based Face Recognition
+        title: Hard-Mining Loss for CNN-based Face Recognition
         quote: >
           Python, PyTorch, Keras, Neural Networks
         description: | # this will include new lines to allow paragraphs
@@ -188,7 +188,7 @@ content:
           - Evaluated the function with ResNet and VGG CNN architectures on the PyTorch framework and obtained the best accuracy metric of 99.1% on the LFW dataset.
 
       - layout: top-middle
-        name: Visual Question Answering
+        title: Visual Question Answering
         quote: >
           Python, PyTorch, Keras, Neural Networks
         description: | # this will include new lines to allow paragraphs
@@ -196,7 +196,7 @@ content:
           - Obtained the best accuracy of 67% over the stacked-attention model on VQA dataset.
 
       - layout: top-middle
-        name: English Premier League Insights
+        title: English Premier League Insights
         quote: >
           Python, Selenium, Pandas/NumPy/Scikit-Learn/Matplotlib, Google Cloud
         description: | # this will include new lines to allow paragraphs
@@ -204,7 +204,7 @@ content:
           - Reported and visualized that good teams are improving at 5% higher rate than relegation-battling teams using offensive/defensive statistics, game points and predicted vs actual performance. 
 
       - layout: top-middle
-        name: Terps Charge&Go
+        title: Terps Charge&Go
         quote: >
           SQL, Python, ER Schema, Data Warehousing
         description: | # this will include new lines to allow paragraphs
